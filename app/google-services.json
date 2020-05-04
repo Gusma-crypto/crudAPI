@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "566693586582",
+    "firebase_url": "https://crudapi-c1e31.firebaseio.com",
+    "project_id": "crudapi-c1e31",
+    "storage_bucket": "crudapi-c1e31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566693586582:android:2a8deef271190586da84b7",
+        "android_client_info": {
+          "package_name": "com.example.crudapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566693586582-mgb4e6hmr7j8dsaboaa8v8cvdsp41hs8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYwkg7GIGFw3hIDb1QvWkwKGCja1l8maY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566693586582-mgb4e6hmr7j8dsaboaa8v8cvdsp41hs8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
